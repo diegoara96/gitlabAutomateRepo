@@ -9,5 +9,5 @@ all projects are going to be saved in ~/Documentos/proyectos change if you want 
 
 ### Usage:
 ```bash
-To run the script type in './createrepo.sh <name of your folder>'
+To run the script type in './createrepogitlab.sh <name of your folder>'
 ```
